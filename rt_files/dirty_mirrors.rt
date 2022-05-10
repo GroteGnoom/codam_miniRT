@@ -3,9 +3,9 @@ C 0,0,0     0,0,-1    100
 
 L -2,4,-15    0.15  255,255,175
 
-sp 0,0,-3     1    255,255,255    n   earth(1).bmp    world.bmp
+sp 0,0,-3     1    255,255,255    n   bump_maps/earth(1).bmp    bump_maps/world.bmp
 
 
-pl -2,0,-2     0,0,1   187,187,187   m   Dirty_surface.bmp
+pl -2,0,-2     0,0,1   187,187,187   m   bump_maps/Dirty_surface.bmp
 
 pl 0,-10,0     0,1,0    255,255,255   n

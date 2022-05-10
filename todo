@@ -1,8 +1,0 @@
-lots of checks
-
-handle corrupted bmp's correctly
-- already checked:
--- truncated files 
--- files with a bunch of FF at the start, which will mess with the `skip`
-
-black holes in water

@@ -10,4 +10,4 @@ sp -2,-1.2,-5 0.03 255,1,1 n
 L 0,2,-2.5 0.22 255,200,100
 sp 0,2.2,-2.5 0.03 255,1,1 n
 
-sp 0,0,-3.5 1.7      102,109,203   n Earth_texture.bmp Earth_normal.bmp
+sp 0,0,-3.5 1.7      102,109,203   n bump_maps/Earth_texture.bmp bump_maps/Earth_normal.bmp

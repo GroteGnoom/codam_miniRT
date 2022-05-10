@@ -6,7 +6,7 @@
 /*   By: dnoom <marvin@codam.nl>                      +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/04/06 11:25:34 by dnoom         #+#    #+#                 */
-/*   Updated: 2022/04/06 11:25:34 by dnoom         ########   odam.nl         */
+/*   Updated: 2022/05/10 12:31:26 by sde-rijk      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,7 +38,7 @@
 # if HEADLESS
 #  define WIN_WIDTH 10
 # else
-#  define WIN_WIDTH 1560
+#  define WIN_WIDTH 2560
 # endif
 # define MAX_BOUNCES 15
 # define AA 1

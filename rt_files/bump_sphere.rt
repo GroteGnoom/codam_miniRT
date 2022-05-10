@@ -3,7 +3,7 @@ C 0,4,-4 0,-1,0 100
 
 L 0,2,-4 0.02 255,255,200
 
-sp -1,0,-3 2      237,83,20    n white.bmp golf_ball.bmp
-sp 1,0,-3 2      237,83,20    n white.bmp golf_ball.bmp
-sp -1,0,-5 2      237,83,20    n white.bmp golf_ball.bmp
-sp 1,0,-5 2      237,83,20    n white.bmp golf_ball.bmp
+sp -1,0,-3 2      237,83,20    n bump_maps/white.bmp bump_maps/golf_ball.bmp
+sp 1,0,-3 2      237,83,20    n bump_maps/white.bmp bump_maps/golf_ball.bmp
+sp -1,0,-5 2      237,83,20    n bump_maps/white.bmp bump_maps/golf_ball.bmp
+sp 1,0,-5 2      237,83,20    n bump_maps/white.bmp bump_maps/golf_ball.bmp

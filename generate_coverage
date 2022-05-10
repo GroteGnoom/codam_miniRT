@@ -1,3 +1,0 @@
-make re PROFILE=1 && ./miniRT mandatory.rt
-llvm-profdata merge -output=code.profdata code-*.profraw
-llvm-cov show miniRT -instr-profile=code.profdata **.c -path-equivalence -use-color --format html > coverage.html

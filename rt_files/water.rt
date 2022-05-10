@@ -7,6 +7,6 @@ sp -0.1,2.1,-4 0.02 255,1,1 n
 
 
 pl 15,0,0 -1,0,0      237,83,20   n
-pl -15,-0.2,0 0,1,0       58,187,201   m Water_inverted.bmp Water_normal.bmp
+pl -15,-0.2,0 0,1,0       58,187,201   m bump_maps/Water_texture.bmp bump_maps/Water_normal.bmp
 
 sp 0,1,-14.4 10     237,83,200   n
